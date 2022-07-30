@@ -2,12 +2,12 @@
 
 <h3 align="center"> I'm a german, Student, Developer and Artist! </h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
+<!--<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"> -->
 
 <p align="left"> 
 </p>
 
-- 🔭 I’m currently working on a ToDo and Note-taking Apllication
+- 🔭 I’m currently working on a ToDo and Note-taking Aplication
 - 🌱 I’m currently learning .Net Maui/ Unity
 - 💬 Ask me about anything you want
 - 📫 How to reach me: max.03.strigl@gmail.com
