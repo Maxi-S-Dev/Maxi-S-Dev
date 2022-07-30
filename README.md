@@ -1,6 +1,9 @@
 ### Hi there, I'm Max - aka. Majost 👋
 
 ## I'm a German, Student, Developer and Artist!
+
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2710024-Coding/attachments/2710024-Coding?mode=media">
+
 - 🔭 I’m currently working on a ToDo and Note-taking Apllication
 - 🌱 I’m currently learning .Net Maui/ Unity
 - 💬 Ask me about anything you want
