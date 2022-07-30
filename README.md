@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
-<p align="left">
+<p align="left"> </p>
 
 - 🔭 I’m currently working on a ToDo and Note-taking Apllication
 - 🌱 I’m currently learning .Net Maui/ Unity
