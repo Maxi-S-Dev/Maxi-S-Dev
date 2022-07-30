@@ -1,4 +1,4 @@
-### Hi there, I'm Max - aka. Majost 👋
+<h1 align="center"> Hi there, I'm Max - aka. Majost 👋 </h1>
 
 ## I'm a German, Student, Developer and Artist!
 
