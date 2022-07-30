@@ -7,7 +7,7 @@
 <p align="left"> 
 </p>
 
-- 🔭 I’m currently working on a ToDo and Note-taking Apllication
+- 🔭 I’m currently working on a ToDo and Note-taking Aplication
 - 🌱 I’m currently learning .Net Maui/ Unity
 - 💬 Ask me about anything you want
 - 📫 How to reach me: max.03.strigl@gmail.com
