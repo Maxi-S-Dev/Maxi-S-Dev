@@ -10,7 +10,7 @@
 - 📫 How to reach me: max.03.strigl@gmail.com
 - ⚡ Fun fact: I love to read, learn and play the clarinet
 
-<h3 align="left"> My Socials (Not active ... yet:hourglass_flowing_sand:) />
+<h3 align="left"> My Socials (Not active ... yet:hourglass_flowing_sand:) >
 
 
 ### The Tools I Use: :wrench:
