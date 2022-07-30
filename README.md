@@ -7,7 +7,7 @@
 - 📫 How to reach me: max.03.strigl@gmail.com
 - ⚡ Fun fact: I love to read, learn and play the clarinet
 
-### My Socials (Not active ... yet :hourglass_flowing_sand:)
+### My Socials (Not active ... yet:hourglass_flowing_sand:)
 
 
 <!--
