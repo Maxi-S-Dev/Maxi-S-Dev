@@ -19,7 +19,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
 <img align="left" alt="Xamarin" width="30px" src="https://docs.microsoft.com/media/logos/logo_xamarin.svg"/>
 <img align="left" alt="Maui" width="30px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
-<img align="left" alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
+<img alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
 <img align="left" alt="HTML" width="30px" src="https://www.w3.org/html/logo/img/mark-word-icon.png"/>
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
