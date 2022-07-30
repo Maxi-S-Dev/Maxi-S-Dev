@@ -2,7 +2,7 @@
 
 ## I'm a German, Student, Developer and Artist!
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2710024-Coding/attachments/2710024-Coding?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 - 🔭 I’m currently working on a ToDo and Note-taking Apllication
 - 🌱 I’m currently learning .Net Maui/ Unity
