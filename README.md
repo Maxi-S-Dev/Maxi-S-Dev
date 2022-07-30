@@ -15,7 +15,7 @@
 <h3 align="left"> My Socials (Not active ... yet:hourglass_flowing_sand:) </h3>
 
 
-### The Tools I Use: :wrench:
+### The Tools and Languages I use: :wrench:
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Visual Studio" width="31px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
 <img align="left" alt="Unity" width="30px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
