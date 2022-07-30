@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there, I'm Max - aka. Majost 👋 </h1>
+<h1 align="center"> Hi there, I'm Max - a.k.a. Majost 👋 </h1>
 
-<h3 align="center"> I'm a german, Student, Developer and Artist! </h3>
+<h3 align="center"> I'm a German, Student, Developer and Artist! </h3>
 
 <!--<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif"> -->
 
