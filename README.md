@@ -17,7 +17,9 @@
 
 
 ### The Tools and Languages I use: :wrench:
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
+<a href="https://code.visualstudio.com/">
+    <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>
+</a>
 <img align="left" alt="Visual Studio" width="31px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" (https://code.visualstudio.com/)/>
 <img align="left" alt="Unity" width="30px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 <img align="left" alt="Blender" width="32px" src="https://scontent.cdninstagram.com/v/t51.2885-19/54447327_1237277466435616_1897300381373825024_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=IxO0eyL5g9sAX9KYxKz&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AT-gUV6rAB0aCc4l6klKMO9jL1VqHOv0oHX9l2JlXz-X8w&amp;oe=62ED0A86&amp;_nc_sid=978cb9"/>
