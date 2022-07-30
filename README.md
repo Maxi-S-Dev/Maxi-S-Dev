@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Max - aka. Majost 👋 </h1>
 
-<h3 align="center"> I'm a German, Student, Developer and Artist! </h3>
+<h3 align="center"> I'm a german, Student, Developer and Artist! </h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
@@ -22,6 +22,7 @@
 <img align="left" alt="Unity" width="30px" src="https://i.redd.it/tu3gt6ysfxq71.png"/>
 <img align="left" alt="Blender" width="32px" src="https://scontent.cdninstagram.com/v/t51.2885-19/54447327_1237277466435616_1897300381373825024_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=104&amp;_nc_ohc=IxO0eyL5g9sAX9KYxKz&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AT-gUV6rAB0aCc4l6klKMO9jL1VqHOv0oHX9l2JlXz-X8w&amp;oe=62ED0A86&amp;_nc_sid=978cb9"/>
 <img align="left" alt="Krita" width="30px" src="https://scontent.cdninstagram.com/v/t51.2885-19/269756624_900783777468552_4900655338226502646_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=L32wglw0eFAAX-8vcBE&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AT_Uk4X9jdNrnvo834AniheIWuBG1AFiC6MyZeaDWOCpgA&amp;oe=62EBD9B9&amp;_nc_sid=978cb9"/>
+<img align="left" alt="Figma" width="30=px" src="http://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png">
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
 <img align="left" alt="Xamarin" width="30px" src="https://docs.microsoft.com/media/logos/logo_xamarin.svg"/>
 <img alt="Maui" width="30px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
