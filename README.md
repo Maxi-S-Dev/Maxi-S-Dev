@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/">
-    <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
+    <img align="left" alt="GitHub" width="30px" src="https://pics.freeicons.io/uploads/icons/png/4381378511600029534-512.png"/>
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/apps/maui">
@@ -51,7 +51,7 @@
 
 
 <a>
-    <img align="left" alt="C#" width="30px" src="https://pics.freeicons.io/uploads/icons/png/4381378511600029534-512.png" style=" box-shadow: 120px 80px 40px 20px #0ff;"/>
+    <img align="left" alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
 </a>
 
 
