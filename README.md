@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://www.blender.org/">
-    <img align="left" alt="Blender" width="32px" src="https://www.blender.org/wp-content/uploads/2020/07/blender_logo_no_socket_white-1280x391.png"/>
+    <img align="left" alt="Blender" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/>
 </a>
 
 <img align="left" alt="Krita" width="30px" src="https://scontent.cdninstagram.com/v/t51.2885-19/269756624_900783777468552_4900655338226502646_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=scontent.cdninstagram.com&amp;_nc_cat=100&amp;_nc_ohc=L32wglw0eFAAX-8vcBE&amp;edm=APs17CUBAAAA&amp;ccb=7-5&amp;oh=00_AT_Uk4X9jdNrnvo834AniheIWuBG1AFiC6MyZeaDWOCpgA&amp;oe=62EBD9B9&amp;_nc_sid=978cb9"/>
