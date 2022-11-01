@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Max - a.k.a. Majost 👋 </h1>
+<h1 align="center"> Hi there, I'm Max - a.k.a. Majost a.k.a Johnny👋 </h1>
 
 <h3 align="center"> I'm a German Student, Developer and Artist! </h3>
 
@@ -7,11 +7,11 @@
 <p align="left"> 
 </p>
 
-- 🔭 I’m currently working on a To-Do and Note-taking Application
-- 🌱 I’m currently learning .Net Maui/ Unity
-- 💬 Ask me about anything you want
+- 🔭 I’m currently working on a customizable and crossplatform Pomodoro-Timer-App
+- 🌱 I’m currently learning .Net Maui, to draw and play the guitar
+- 💬 Any Questions? - Just ask me
 - 📫 How to reach me: max.03.strigl@gmail.com
-- ⚡ Fun fact: I love to read, learn and play the clarinet
+- ⚡ Fun fact: I love to solve difficult riddles and good designed Apps.
 
 <h3 align="left"> My Socials (Not active ... yet:hourglass_flowing_sand:) </h3>
 
@@ -49,9 +49,9 @@
     <img alt="Maui" width="30px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
 </a>
 
-<a href="https://learn.microsoft.com/de-de/dotnet/csharp/">
-    <img align="left" alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
-</a>
+
+<img align="left" alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
+
 
 <img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
