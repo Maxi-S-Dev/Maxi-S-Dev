@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/apps/maui">
-    <img alt="Maui" width="30px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
+    <img align="left" alt="Maui" width="30px" src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png"/>
 </a>
 
 
