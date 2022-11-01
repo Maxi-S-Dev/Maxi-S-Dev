@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/">
-    <img align="left" alt="GitHub" width="30px" src="https://pics.freeicons.io/uploads/icons/png/4381378511600029534-512.png"/>
+    <img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 </a>
 
 <a href="https://dotnet.microsoft.com/en-us/apps/maui">
