@@ -54,11 +54,10 @@
     <img align="left" alt="C#" width="30px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"/>
 </a>
 
-
-
 <a>
     <img align="left" alt="HTML" width="30px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/>
 </a>
+
 <a>
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
 </a>
