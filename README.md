@@ -7,7 +7,7 @@
 <p align="left"> 
 </p>
 
-- 🔭 I’m currently working on a customizable and crossplatform Pomodoro-Timer-App
+- 🔭 I’m currently working on a Comandline-style Pomodoro-Timer-App
 - 🌱 I’m currently learning .Net Maui, to draw and play the guitar
 - 💬 Any Questions? - Just ask me
 - 📫 How to reach me: max.03.strigl@gmail.com
@@ -62,14 +62,3 @@
 <img align="left" alt="CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"/>
 </a>
 <!--
-**Maximilian-Strigl/Maximilian-Strigl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning     ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
